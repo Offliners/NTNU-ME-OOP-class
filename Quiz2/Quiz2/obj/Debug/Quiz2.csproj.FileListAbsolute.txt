@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz2\Quiz2\bin\Debug\Quiz2.exe.config
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz2\Quiz2\bin\Debug\Quiz2.exe
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz2\Quiz2\bin\Debug\Quiz2.pdb
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz2\Quiz2\obj\Debug\Quiz2.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz2\Quiz2\obj\Debug\Quiz2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz2\Quiz2\obj\Debug\Quiz2.exe
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz2\Quiz2\obj\Debug\Quiz2.pdb
+D:\大學學習資源\物件導向quiz\Quiz2\Quiz2\bin\Debug\Quiz2.exe.config
+D:\大學學習資源\物件導向quiz\Quiz2\Quiz2\bin\Debug\Quiz2.exe
+D:\大學學習資源\物件導向quiz\Quiz2\Quiz2\bin\Debug\Quiz2.pdb
+D:\大學學習資源\物件導向quiz\Quiz2\Quiz2\obj\Debug\Quiz2.csprojAssemblyReference.cache
+D:\大學學習資源\物件導向quiz\Quiz2\Quiz2\obj\Debug\Quiz2.csproj.CoreCompileInputs.cache
+D:\大學學習資源\物件導向quiz\Quiz2\Quiz2\obj\Debug\Quiz2.exe
+D:\大學學習資源\物件導向quiz\Quiz2\Quiz2\obj\Debug\Quiz2.pdb
