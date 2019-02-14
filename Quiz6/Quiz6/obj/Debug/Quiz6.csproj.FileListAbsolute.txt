@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz6\Quiz6\bin\Debug\Quiz6.exe.config
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz6\Quiz6\bin\Debug\Quiz6.exe
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz6\Quiz6\bin\Debug\Quiz6.pdb
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz6\Quiz6\obj\Debug\Quiz6.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz6\Quiz6\obj\Debug\Quiz6.Form1.resources
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz6\Quiz6\obj\Debug\Quiz6.Properties.Resources.resources
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz6\Quiz6\obj\Debug\Quiz6.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz6\Quiz6\obj\Debug\Quiz6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz6\Quiz6\obj\Debug\Quiz6.exe
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz6\Quiz6\obj\Debug\Quiz6.pdb

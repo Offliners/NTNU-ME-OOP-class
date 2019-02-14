@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz4\Quiz4\bin\Debug\Quiz4.exe.config
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz4\Quiz4\bin\Debug\Quiz4.exe
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz4\Quiz4\bin\Debug\Quiz4.pdb
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz4\Quiz4\obj\Debug\Quiz4.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz4\Quiz4\obj\Debug\Quiz4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz4\Quiz4\obj\Debug\Quiz4.exe
+C:\Users\ASUS\Desktop\物件導向quiz\Quiz4\Quiz4\obj\Debug\Quiz4.pdb

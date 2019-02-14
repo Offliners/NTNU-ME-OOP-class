@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\物件導向quiz\quiz3\quiz3\bin\Debug\quiz3.exe.config
+C:\Users\ASUS\Desktop\物件導向quiz\quiz3\quiz3\bin\Debug\quiz3.exe
+C:\Users\ASUS\Desktop\物件導向quiz\quiz3\quiz3\bin\Debug\quiz3.pdb
+C:\Users\ASUS\Desktop\物件導向quiz\quiz3\quiz3\obj\Debug\quiz3.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\物件導向quiz\quiz3\quiz3\obj\Debug\quiz3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\物件導向quiz\quiz3\quiz3\obj\Debug\quiz3.exe
+C:\Users\ASUS\Desktop\物件導向quiz\quiz3\quiz3\obj\Debug\quiz3.pdb
