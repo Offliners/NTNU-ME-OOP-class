@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork1_2\Classwork1_2\bin\Debug\Classwork1_2.exe.config
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork1_2\Classwork1_2\bin\Debug\Classwork1_2.exe
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork1_2\Classwork1_2\bin\Debug\Classwork1_2.pdb
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork1_2\Classwork1_2\obj\Debug\Classwork1_2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork1_2\Classwork1_2\obj\Debug\Classwork1_2.exe
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork1_2\Classwork1_2\obj\Debug\Classwork1_2.pdb

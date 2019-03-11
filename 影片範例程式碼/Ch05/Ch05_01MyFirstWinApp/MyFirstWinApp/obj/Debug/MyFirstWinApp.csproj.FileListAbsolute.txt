@@ -1,0 +1,12 @@
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\MyFirstWinApp\MyFirstWinApp\bin\Debug\MyFirstWinApp.exe.config
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\MyFirstWinApp\MyFirstWinApp\bin\Debug\MyFirstWinApp.exe
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\MyFirstWinApp\MyFirstWinApp\bin\Debug\MyFirstWinApp.pdb
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.csprojResolveAssemblyReference.cache
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.Properties.Resources.resources
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.csproj.GenerateResource.Cache
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.exe
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.pdb
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.Form1.resources
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\範例程式\Ch05\Ch05_01MyFirstWinApp\MyFirstWinApp\bin\Debug\MyFirstWinApp.exe.config
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\範例程式\Ch05\Ch05_01MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.exe
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\範例程式\Ch05\Ch05_01MyFirstWinApp\MyFirstWinApp\obj\Debug\MyFirstWinApp.pdb

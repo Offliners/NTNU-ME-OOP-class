@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\物件導向Classwork\classwork1_3_better\classwork1_3_better\bin\Debug\classwork1_3_better.exe.config
+C:\Users\ASUS\Desktop\物件導向Classwork\classwork1_3_better\classwork1_3_better\bin\Debug\classwork1_3_better.exe
+C:\Users\ASUS\Desktop\物件導向Classwork\classwork1_3_better\classwork1_3_better\bin\Debug\classwork1_3_better.pdb
+C:\Users\ASUS\Desktop\物件導向Classwork\classwork1_3_better\classwork1_3_better\obj\Debug\classwork1_3_better.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\物件導向Classwork\classwork1_3_better\classwork1_3_better\obj\Debug\classwork1_3_better.exe
+C:\Users\ASUS\Desktop\物件導向Classwork\classwork1_3_better\classwork1_3_better\obj\Debug\classwork1_3_better.pdb

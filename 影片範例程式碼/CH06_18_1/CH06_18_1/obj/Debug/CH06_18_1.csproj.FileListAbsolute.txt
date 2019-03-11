@@ -1,0 +1,6 @@
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\CH06_18_1\CH06_18_1\bin\Debug\CH06_18_1.exe.config
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\CH06_18_1\CH06_18_1\obj\Debug\CH06_18_1.csprojResolveAssemblyReference.cache
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\CH06_18_1\CH06_18_1\bin\Debug\CH06_18_1.exe
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\CH06_18_1\CH06_18_1\bin\Debug\CH06_18_1.pdb
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\CH06_18_1\CH06_18_1\obj\Debug\CH06_18_1.exe
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\CH06_18_1\CH06_18_1\obj\Debug\CH06_18_1.pdb

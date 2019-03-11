@@ -1,0 +1,9 @@
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\Ch05_02\Ch05_02\bin\Debug\Ch05_02.exe.config
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\Ch05_02\Ch05_02\bin\Debug\Ch05_02.exe
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\Ch05_02\Ch05_02\bin\Debug\Ch05_02.pdb
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\Ch05_02\Ch05_02\obj\Debug\Ch05_02.csprojResolveAssemblyReference.cache
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\Ch05_02\Ch05_02\obj\Debug\Ch05_02.Form1.resources
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\Ch05_02\Ch05_02\obj\Debug\Ch05_02.Properties.Resources.resources
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\Ch05_02\Ch05_02\obj\Debug\Ch05_02.csproj.GenerateResource.Cache
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\Ch05_02\Ch05_02\obj\Debug\Ch05_02.exe
+C:\sdwu\師大\教學\102下\物件導向程式設計\程式碼\Ch05_02\Ch05_02\obj\Debug\Ch05_02.pdb

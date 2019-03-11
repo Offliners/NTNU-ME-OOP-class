@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork1_3\Classwork1_3\bin\Debug\Classwork1_3.exe.config
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork1_3\Classwork1_3\bin\Debug\Classwork1_3.exe
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork1_3\Classwork1_3\bin\Debug\Classwork1_3.pdb
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork1_3\Classwork1_3\obj\Debug\Classwork1_3.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork1_3\Classwork1_3\obj\Debug\Classwork1_3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork1_3\Classwork1_3\obj\Debug\Classwork1_3.exe
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork1_3\Classwork1_3\obj\Debug\Classwork1_3.pdb

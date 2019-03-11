@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Quiz5\Quiz5\bin\Debug\Quiz5.exe.config
+C:\Users\ASUS\Desktop\Quiz5\Quiz5\bin\Debug\Quiz5.exe
+C:\Users\ASUS\Desktop\Quiz5\Quiz5\bin\Debug\Quiz5.pdb
+C:\Users\ASUS\Desktop\Quiz5\Quiz5\obj\Debug\Quiz5.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Quiz5\Quiz5\obj\Debug\Quiz5.Form1.resources
+C:\Users\ASUS\Desktop\Quiz5\Quiz5\obj\Debug\Quiz5.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Quiz5\Quiz5\obj\Debug\Quiz5.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Quiz5\Quiz5\obj\Debug\Quiz5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Quiz5\Quiz5\obj\Debug\Quiz5.exe
+C:\Users\ASUS\Desktop\Quiz5\Quiz5\obj\Debug\Quiz5.pdb

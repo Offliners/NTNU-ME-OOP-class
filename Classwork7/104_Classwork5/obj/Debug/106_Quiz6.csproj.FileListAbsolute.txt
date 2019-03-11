@@ -1,0 +1,12 @@
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz6\104_Classwork5\obj\Debug\106_Quiz6.csprojResolveAssemblyReference.cache
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz6\104_Classwork5\obj\Debug\_106_Quiz6.Form1.resources
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz6\104_Classwork5\obj\Debug\_104_Classwork5.Properties.Resources.resources
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz6\104_Classwork5\obj\Debug\106_Quiz6.csproj.GenerateResource.Cache
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz6\104_Classwork5\obj\Debug\104_Classwork5.exe
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz6\104_Classwork5\obj\Debug\104_Classwork5.pdb
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz6\104_Classwork5\bin\Debug\104_Classwork5.exe.config
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz6\104_Classwork5\bin\Debug\104_Classwork5.exe
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz6\104_Classwork5\bin\Debug\104_Classwork5.pdb
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork6\104_Classwork5\bin\Debug\104_Classwork5.exe.config
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork6\104_Classwork5\obj\Debug\104_Classwork5.exe
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork6\104_Classwork5\obj\Debug\104_Classwork5.pdb

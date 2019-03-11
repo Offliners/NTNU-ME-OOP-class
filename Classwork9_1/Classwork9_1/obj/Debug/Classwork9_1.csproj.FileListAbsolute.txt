@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork9_1\Classwork9_1\bin\Debug\Classwork9_1.exe.config
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork9_1\Classwork9_1\bin\Debug\Classwork9_1.exe
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork9_1\Classwork9_1\bin\Debug\Classwork9_1.pdb
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork9_1\Classwork9_1\obj\Debug\Classwork9_1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork9_1\Classwork9_1\obj\Debug\Classwork9_1.ChildForm.resources
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork9_1\Classwork9_1\obj\Debug\Classwork9_1.Form1.resources
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork9_1\Classwork9_1\obj\Debug\Classwork9_1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork9_1\Classwork9_1\obj\Debug\Classwork9_1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork9_1\Classwork9_1\obj\Debug\Classwork9_1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork9_1\Classwork9_1\obj\Debug\Classwork9_1.exe
+C:\Users\ASUS\Desktop\物件導向Classwork\Classwork9_1\Classwork9_1\obj\Debug\Classwork9_1.pdb
